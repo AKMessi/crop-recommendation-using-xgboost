@@ -23,7 +23,7 @@ A Precision Agriculture engine that recommends the optimal crop and fertilizer p
 1. Install dependencies:
    `pip install -r requirements.txt`
 2. Run the digital twin simulation:
-   `python src/digital_twin.py`
+   `python src/main.py`
 
 ## 🧠 The Logic
 The system uses a **Decision Tree Ensemble** to map non-linear relationships between:
